@@ -1,5 +1,4 @@
 # thirdTest_202305
 
-## braA
 
-## braC
+## braAとbraBが合体した状態
