@@ -2,3 +2,6 @@
 
 
 ## braAとbraBが合体した状態
+## main
+
+## braB
